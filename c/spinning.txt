@@ -1,0 +1,15 @@
+(paper==>巻物, stone==>煌石), (None==>演出無し, True==>演出有), ドロップ品-(等級)
+
+paper-None-tinnbook-Blue
+~-~-cookie-Blue
+~-True-茶髪眼鏡一般雑誌編集女
+~-None-diamond-Blue
+~-~-NintendoSwitch-Blue
+
+2022/11/23 22:35~36
+~-~-clothes-Blue 
+~-~-cup-Blue
+
+2022/11/28 20:32
+~-~-riich:火焔(stack, 被り)
+~-~-Picture-Blue
